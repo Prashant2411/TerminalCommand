@@ -1,0 +1,82 @@
+Dec  2 13:36:27 admin1-HP-EliteBook-Folio-9480m kernel: [ 2060.222918] wlo1: AP 4c:ed:fb:cf:43:50 changed bandwidth, new config is 2417 MHz, width 2 (2427/0 MHz)
+Dec  2 14:12:24 admin1-HP-EliteBook-Folio-9480m kernel: [ 4217.289148] wlo1: AP 4c:ed:fb:cf:43:50 changed bandwidth, new config is 2417 MHz, width 1 (2417/0 MHz)
+Dec  2 14:28:52 admin1-HP-EliteBook-Folio-9480m kernel: [ 5205.169553] usb 2-3.2: new high-speed USB device number 5 using xhci_hcd
+Dec  2 14:28:52 admin1-HP-EliteBook-Folio-9480m kernel: [ 5205.273033] usb 2-3.2: New USB device found, idVendor=2717, idProduct=ff40
+Dec  2 14:28:52 admin1-HP-EliteBook-Folio-9480m kernel: [ 5205.273036] usb 2-3.2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Dec  2 14:28:52 admin1-HP-EliteBook-Folio-9480m kernel: [ 5205.273038] usb 2-3.2: Product: Redmi Note 7 Pro
+Dec  2 14:28:52 admin1-HP-EliteBook-Folio-9480m kernel: [ 5205.273039] usb 2-3.2: Manufacturer: Xiaomi
+Dec  2 14:28:52 admin1-HP-EliteBook-Folio-9480m kernel: [ 5205.273041] usb 2-3.2: SerialNumber: 38586465
+Dec  2 14:37:38 admin1-HP-EliteBook-Folio-9480m kernel: [ 5731.481714] wlo1: AP 4c:ed:fb:cf:43:50 changed bandwidth, new config is 2417 MHz, width 2 (2427/0 MHz)
+Dec  2 14:42:37 admin1-HP-EliteBook-Folio-9480m kernel: [ 6030.468113] usb 2-3.2: USB disconnect, device number 5
+Dec  2 14:45:15 admin1-HP-EliteBook-Folio-9480m kernel: [ 6188.336063] usb 2-3.2: new high-speed USB device number 6 using xhci_hcd
+Dec  2 14:45:15 admin1-HP-EliteBook-Folio-9480m kernel: [ 6188.443051] usb 2-3.2: New USB device found, idVendor=2717, idProduct=ff40
+Dec  2 14:45:15 admin1-HP-EliteBook-Folio-9480m kernel: [ 6188.443057] usb 2-3.2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Dec  2 14:45:15 admin1-HP-EliteBook-Folio-9480m kernel: [ 6188.443062] usb 2-3.2: Product: Redmi Note 7 Pro
+Dec  2 14:45:15 admin1-HP-EliteBook-Folio-9480m kernel: [ 6188.443066] usb 2-3.2: Manufacturer: Xiaomi
+Dec  2 14:45:15 admin1-HP-EliteBook-Folio-9480m kernel: [ 6188.443069] usb 2-3.2: SerialNumber: 38586465
+Dec  2 15:08:58 admin1-HP-EliteBook-Folio-9480m kernel: [ 7610.843094] wlo1: AP 4c:ed:fb:cf:43:50 changed bandwidth, new config is 2417 MHz, width 1 (2417/0 MHz)
+Dec  2 15:16:45 admin1-HP-EliteBook-Folio-9480m kernel: [ 8077.956441] usb 2-3.2: USB disconnect, device number 6
+Dec  2 15:25:08 admin1-HP-EliteBook-Folio-9480m kernel: [ 8581.314683] usb 2-3.2: new high-speed USB device number 7 using xhci_hcd
+Dec  2 15:25:08 admin1-HP-EliteBook-Folio-9480m kernel: [ 8581.416723] usb 2-3.2: New USB device found, idVendor=2717, idProduct=ff40
+Dec  2 15:25:08 admin1-HP-EliteBook-Folio-9480m kernel: [ 8581.416729] usb 2-3.2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Dec  2 15:25:08 admin1-HP-EliteBook-Folio-9480m kernel: [ 8581.416733] usb 2-3.2: Product: Redmi Note 7 Pro
+Dec  2 15:25:08 admin1-HP-EliteBook-Folio-9480m kernel: [ 8581.416736] usb 2-3.2: Manufacturer: Xiaomi
+Dec  2 15:25:08 admin1-HP-EliteBook-Folio-9480m kernel: [ 8581.416739] usb 2-3.2: SerialNumber: 38586465
+Dec  2 15:50:03 admin1-HP-EliteBook-Folio-9480m kernel: [10075.780673] usb 2-3.2: USB disconnect, device number 7
+Dec  2 16:15:14 admin1-HP-EliteBook-Folio-9480m kernel: [11587.248210] wlo1: AP 4c:ed:fb:cf:43:50 changed bandwidth, new config is 2417 MHz, width 2 (2427/0 MHz)
+Dec  2 16:29:20 admin1-HP-EliteBook-Folio-9480m kernel: [12433.424586] usb 2-3.3: new high-speed USB device number 8 using xhci_hcd
+Dec  2 16:29:20 admin1-HP-EliteBook-Folio-9480m kernel: [12433.530258] usb 2-3.3: New USB device found, idVendor=2717, idProduct=ff40
+Dec  2 16:29:20 admin1-HP-EliteBook-Folio-9480m kernel: [12433.530263] usb 2-3.3: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Dec  2 16:29:20 admin1-HP-EliteBook-Folio-9480m kernel: [12433.530265] usb 2-3.3: Product: Redmi Note 7 Pro
+Dec  2 16:29:20 admin1-HP-EliteBook-Folio-9480m kernel: [12433.530268] usb 2-3.3: Manufacturer: Xiaomi
+Dec  2 16:29:20 admin1-HP-EliteBook-Folio-9480m kernel: [12433.530270] usb 2-3.3: SerialNumber: 38586465
+Dec  2 16:31:25 admin1-HP-EliteBook-Folio-9480m kernel: [12558.413200] wlo1: AP 4c:ed:fb:cf:43:50 changed bandwidth, new config is 2417 MHz, width 1 (2417/0 MHz)
+Dec  2 16:46:12 admin1-HP-EliteBook-Folio-9480m kernel: [13445.509205] usb 2-3.3: USB disconnect, device number 8
+Dec  2 16:46:16 admin1-HP-EliteBook-Folio-9480m kernel: [13449.184906] usb 2-3.3: new high-speed USB device number 9 using xhci_hcd
+Dec  2 16:46:16 admin1-HP-EliteBook-Folio-9480m kernel: [13449.287479] usb 2-3.3: New USB device found, idVendor=2717, idProduct=ff40
+Dec  2 16:46:16 admin1-HP-EliteBook-Folio-9480m kernel: [13449.287485] usb 2-3.3: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Dec  2 16:46:16 admin1-HP-EliteBook-Folio-9480m kernel: [13449.287489] usb 2-3.3: Product: Redmi Note 7 Pro
+Dec  2 16:46:16 admin1-HP-EliteBook-Folio-9480m kernel: [13449.287492] usb 2-3.3: Manufacturer: Xiaomi
+Dec  2 16:46:16 admin1-HP-EliteBook-Folio-9480m kernel: [13449.287496] usb 2-3.3: SerialNumber: 38586465
+Dec  2 16:46:22 admin1-HP-EliteBook-Folio-9480m kernel: [13454.725095] usb 2-3.3: USB disconnect, device number 9
+Dec  2 16:46:23 admin1-HP-EliteBook-Folio-9480m kernel: [13455.753137] usb 2-3.3: new high-speed USB device number 10 using xhci_hcd
+Dec  2 16:46:23 admin1-HP-EliteBook-Folio-9480m kernel: [13455.857632] usb 2-3.3: New USB device found, idVendor=2717, idProduct=ff40
+Dec  2 16:46:23 admin1-HP-EliteBook-Folio-9480m kernel: [13455.857638] usb 2-3.3: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Dec  2 16:46:23 admin1-HP-EliteBook-Folio-9480m kernel: [13455.857643] usb 2-3.3: Product: Redmi Note 7 Pro
+Dec  2 16:46:23 admin1-HP-EliteBook-Folio-9480m kernel: [13455.857647] usb 2-3.3: Manufacturer: Xiaomi
+Dec  2 16:46:23 admin1-HP-EliteBook-Folio-9480m kernel: [13455.857651] usb 2-3.3: SerialNumber: 38586465
+Dec  2 16:46:58 admin1-HP-EliteBook-Folio-9480m kernel: [13490.821218] usb 2-3.3: USB disconnect, device number 10
+Dec  2 16:46:58 admin1-HP-EliteBook-Folio-9480m kernel: [13491.042664] usb 2-3.3: new high-speed USB device number 11 using xhci_hcd
+Dec  2 16:46:58 admin1-HP-EliteBook-Folio-9480m kernel: [13491.151100] usb 2-3.3: New USB device found, idVendor=2717, idProduct=ff40
+Dec  2 16:46:58 admin1-HP-EliteBook-Folio-9480m kernel: [13491.151107] usb 2-3.3: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Dec  2 16:46:58 admin1-HP-EliteBook-Folio-9480m kernel: [13491.151112] usb 2-3.3: Product: Redmi Note 7 Pro
+Dec  2 16:46:58 admin1-HP-EliteBook-Folio-9480m kernel: [13491.151116] usb 2-3.3: Manufacturer: Xiaomi
+Dec  2 16:46:58 admin1-HP-EliteBook-Folio-9480m kernel: [13491.151121] usb 2-3.3: SerialNumber: 38586465
+Dec  2 16:47:20 admin1-HP-EliteBook-Folio-9480m kernel: [13513.093157] usb 2-3.3: USB disconnect, device number 11
+Dec  2 16:47:20 admin1-HP-EliteBook-Folio-9480m kernel: [13513.315594] usb 2-3.3: new full-speed USB device number 12 using xhci_hcd
+Dec  2 16:47:20 admin1-HP-EliteBook-Folio-9480m kernel: [13513.395577] usb 2-3.3: device descriptor read/64, error -32
+Dec  2 16:47:20 admin1-HP-EliteBook-Folio-9480m kernel: [13513.583645] usb 2-3.3: device descriptor read/64, error -32
+Dec  2 16:47:21 admin1-HP-EliteBook-Folio-9480m kernel: [13513.771621] usb 2-3.3: new full-speed USB device number 13 using xhci_hcd
+Dec  2 16:47:21 admin1-HP-EliteBook-Folio-9480m kernel: [13513.855651] usb 2-3.3: device descriptor read/64, error -32
+Dec  2 16:47:21 admin1-HP-EliteBook-Folio-9480m kernel: [13514.043564] usb 2-3.3: device descriptor read/64, error -32
+Dec  2 16:47:21 admin1-HP-EliteBook-Folio-9480m kernel: [13514.151753] usb 2-3-port3: attempt power cycle
+Dec  2 16:47:22 admin1-HP-EliteBook-Folio-9480m kernel: [13514.755627] usb 2-3.3: new full-speed USB device number 14 using xhci_hcd
+Dec  2 16:47:22 admin1-HP-EliteBook-Folio-9480m kernel: [13514.755785] usb 2-3.3: Device not responding to setup address.
+Dec  2 16:47:22 admin1-HP-EliteBook-Folio-9480m kernel: [13514.963820] usb 2-3.3: Device not responding to setup address.
+Dec  2 16:47:22 admin1-HP-EliteBook-Folio-9480m kernel: [13515.171652] usb 2-3.3: device not accepting address 14, error -71
+Dec  2 16:47:22 admin1-HP-EliteBook-Folio-9480m kernel: [13515.251692] usb 2-3.3: new full-speed USB device number 15 using xhci_hcd
+Dec  2 16:47:22 admin1-HP-EliteBook-Folio-9480m kernel: [13515.251860] usb 2-3.3: Device not responding to setup address.
+Dec  2 16:47:22 admin1-HP-EliteBook-Folio-9480m kernel: [13515.459821] usb 2-3.3: Device not responding to setup address.
+Dec  2 16:47:22 admin1-HP-EliteBook-Folio-9480m kernel: [13515.667608] usb 2-3.3: device not accepting address 15, error -71
+Dec  2 16:47:22 admin1-HP-EliteBook-Folio-9480m kernel: [13515.667704] usb 2-3-port3: unable to enumerate USB device
+Dec  2 16:52:17 admin1-HP-EliteBook-Folio-9480m kernel: [13809.720738] usb 2-3.3: new high-speed USB device number 16 using xhci_hcd
+Dec  2 16:52:17 admin1-HP-EliteBook-Folio-9480m kernel: [13809.825590] usb 2-3.3: New USB device found, idVendor=2717, idProduct=ff40
+Dec  2 16:52:17 admin1-HP-EliteBook-Folio-9480m kernel: [13809.825594] usb 2-3.3: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Dec  2 16:52:17 admin1-HP-EliteBook-Folio-9480m kernel: [13809.825597] usb 2-3.3: Product: Redmi Note 7 Pro
+Dec  2 16:52:17 admin1-HP-EliteBook-Folio-9480m kernel: [13809.825599] usb 2-3.3: Manufacturer: Xiaomi
+Dec  2 16:52:17 admin1-HP-EliteBook-Folio-9480m kernel: [13809.825602] usb 2-3.3: SerialNumber: 38586465
+Dec  2 16:52:18 admin1-HP-EliteBook-Folio-9480m kernel: [13810.725077] usb 2-3.3: reset high-speed USB device number 16 using xhci_hcd
+Dec  2 16:52:18 admin1-HP-EliteBook-Folio-9480m kernel: [13810.905117] usb 2-3.3: reset high-speed USB device number 16 using xhci_hcd
+Dec  2 16:53:26 admin1-HP-EliteBook-Folio-9480m kernel: [13879.429397] usb 2-3.3: USB disconnect, device number 16
+Dec  2 16:53:26 admin1-HP-EliteBook-Folio-9480m kernel: [13879.654318] usb 2-3.3: new full-speed USB device number 17 using xhci_hcd
+Dec  2 16:53:27 admin1-HP-EliteBook-Folio-9480m kernel: [13879.734389] usb 2-3.3: device descriptor read/64, error -32
