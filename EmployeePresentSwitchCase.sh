@@ -1,5 +1,7 @@
-#!/bin/bash -x
+ #!/bin/bash -x
 
+declare -A dailyHrsArray
+declare -A totalHrsArray
 function getWorkingHours () {
 
 	present=1
@@ -22,18 +24,25 @@ function getWorkingHours () {
 	echo $workingHr
 }
 
+
+function main () {
 ratePerHour=300
 i=0
 while (( i < 20 && totalHrs < 50 )) 
 do
 	dailyHrs=$(getWorkingHours)
 	dailyWage=$(( $dailyHrs * $ratePerHour ))
-	dailyHrsArray[((i))]=$dailyWage
+	dailyHrsArray[((Day$i))]=$dailyWage
 	totalHrs=$(( $totalHrs + $dailyHrs ))
 	totalWage=$(( $totalHrs * $ratePerHour ))
-	totalHrsArray[((i))]=$totalWage
+	totalHrsArray[((Day$i))]=$totalWage
 	i=$(( $i + 1 ))
 done
 monthlySalary=$(( $ratePerHour * $totalHrs ))
-echo ${totalHrsArray[@]}
-echo ${dailyHrsArray[@]}
+for a in ${!dailyHrsArray[@]}
+do
+	echo "$a : ${dailyHrsArray[$a]}"
+done
+}
+
+main
